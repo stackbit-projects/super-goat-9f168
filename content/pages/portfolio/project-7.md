@@ -1,5 +1,5 @@
 ---
-title: Coordinación en Ferias Nacionales e Internacionales
+title: Declaración Juvenil de la Alianza del Pacífico
 subtitle: 'Coordinación de eventos '
 date: '2021-02-06'
 thumb_image_alt: Subtle preview
