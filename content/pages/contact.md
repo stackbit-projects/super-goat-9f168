@@ -27,7 +27,6 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        default_value: Por favor selecciona una
         options:
           - Saludo
           - Colaboración / Oferta laboral
