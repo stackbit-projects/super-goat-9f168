@@ -43,14 +43,13 @@ sections:
           La Agenda Digital de la Alianza del Pacífico: Retos y Oportunidades
           para los DDHH
         image: /images/agenda.PNG
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: >+
+          Trabajo Fin de Máster, donde se analizan las Acciones de la Agenda
+          Digital de la Alianza del Pacífico bajo un enfoque de derechos
+          humanos, con la propuesta de que es necesario repensar el papel de los
+          mecanismos de integración y convertirlos en promotores del progreso
+          tecnológico y los derechos humanos para sus países miembros.
+
         subtitle: 'Junio, 2021. UAM'
       - title: Brand design
         image: images/service-2.svg
