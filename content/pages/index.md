@@ -51,6 +51,7 @@ sections:
           - Design strategy
           - Digital and experience strategy
           - Communication strategy
+        subtitle: 'Junio, 2021. UAM'
       - title: Brand design
         image: images/service-2.svg
         content: |-
