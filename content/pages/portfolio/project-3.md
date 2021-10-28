@@ -6,7 +6,7 @@ thumb_image: /images/student-g0c8d23e69_1920.jpg
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
-    image: images/work-book-cover-1.jpg
+    image: /images/179556420_287894303047282_6861344462670994194_n.jpg
     image_alt: The Book 1
     caption: This is the caption of the image
     width: wide
