@@ -1,6 +1,6 @@
 ---
 title: Semana de Negocios Internacionales
-subtitle: Coordinadora de proyecto
+subtitle: Coordinadora Adjunta de proyecto
 date: '2020-04-10'
 thumb_image_alt: The Book preview
 sections:
