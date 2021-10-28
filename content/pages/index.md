@@ -71,6 +71,7 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
+        subtitle: 'Abril, 2019. CLACSO.'
       - title: Experience design
         image: images/service-3.svg
         content: |-
