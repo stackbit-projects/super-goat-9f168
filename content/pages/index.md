@@ -102,7 +102,7 @@ sections:
     section_id: cta
     title: ¡Contáctame!
     actions:
-      - label: Let's start
+      - label: Let's talk
         url: /contact
         style: button
     image_alt: Illustration
