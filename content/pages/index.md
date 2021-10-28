@@ -67,7 +67,8 @@ sections:
         subtitle: 'Abril, 2019. CLACSO'
         actions:
           - label: Leer
-            url: '#'
+            url: >-
+              https://www.academia.edu/40290888/La_Alianza_del_Pacifico_Proceso_de_integraci%C3%B3n_latinoamericana_en_construcci%C3%B3n
             style: link
             icon: dribbble
             new_window: false
