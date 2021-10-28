@@ -31,7 +31,7 @@ sections:
         options:
           - Saludo
           - Colaboración / Oferta laboral
-          - Digital
+          - Otro
         label: Asunto
       - input_type: textarea
         name: message
