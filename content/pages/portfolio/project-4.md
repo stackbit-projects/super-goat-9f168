@@ -1,6 +1,6 @@
 ---
 title: 'Agenda 2030: El Futuro que Queremos '
-subtitle: Project Manager
+subtitle: Coordinadora de Proyecto
 date: '2020-05-10'
 thumb_image: /images/imageonline-co-split-image (2).png
 thumb_image_alt: Nature Mockup Magazine preview
