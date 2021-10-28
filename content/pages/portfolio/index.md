@@ -1,6 +1,6 @@
 ---
 title: Proyectos
-subtitle: Project Management |
+subtitle: 'Project Management '
 layout_style: mosaic
 seo:
   title: Portfolio
