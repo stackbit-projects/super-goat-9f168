@@ -110,6 +110,6 @@ sections:
         style: button
     image_alt: Illustration
     bg_color: light
-    image: /images/Diseño sin título (2)-7ab58861.png
+    image: /images/15844911_1269493859793247_6750808222555635016_o (1).png
 layout: advanced
 ---
