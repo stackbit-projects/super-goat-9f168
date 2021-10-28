@@ -32,7 +32,7 @@
             },
             {
                 "label": "Sobre mí",
-                "url": "#",
+                "url": "/sobre-mi",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
