@@ -5,7 +5,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
 date: '2020-01-15'
-thumb_image: images/post-1-thumb.jpg
+thumb_image: /images/earth-g9020fa5d2_1280.jpg
 thumb_image_alt: White concrete building wall
 image: images/post-1.jpg
 image_alt: White concrete building wall
