@@ -13,7 +13,6 @@ sections:
   - type: text_section
     content: "Coordino las actividades de Updaters English Community, un lugar seguro, amigable y gratuito para practicar y mejorar tu inglés con personas de toda América Latina (también tenemos miembros de España y otras partes de Europa). Actualmente somos\_**+720 miembros**\_y tenemos varias actividades a lo largo de la semana. Únete a Updaters and\_*Update Your Life To English.*\n\n\n\nMás información sobre Updaters[\_aquí](https://linktr.ee/EnglishUpdaters)\n"
   - type: image_section
-    image: images/work-magazine-2.jpg
     image_alt: Nature Magazine 2
     width: wide
   - type: text_section
