@@ -91,7 +91,8 @@ sections:
 
         actions:
           - label: Leer
-            url: '#'
+            url: >-
+              https://www.academia.edu/40290782/Rese%C3%B1a_del_libro_Perspectivas_y_Oportunidades_de_la_Alianza_del_Pac%C3%ADfico_Isabel_Rodr%C3%ADguez_Aranda_y_Edgar_Vieira_Posada_eds_
             style: link
             icon: dribbble
             new_window: false
