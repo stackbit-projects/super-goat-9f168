@@ -34,7 +34,7 @@ sections:
       - image: images/logo-5.svg
         image_alt: Logo 5
   - type: grid_section
-    section_id: services
+    section_id: Research
     title: Artículos Académicos
     subtitle: Research
     col_number: three
