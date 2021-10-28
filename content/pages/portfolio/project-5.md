@@ -6,7 +6,7 @@ thumb_image: /images/imageonline-co-split-image (2).png
 thumb_image_alt: Updaters English Community
 sections:
   - type: image_section
-    image: images/work-magazine-1.jpg
+    image: /images/Agregar un título (1000 x 600 px) (3).png
     image_alt: Nature Magazine 1
     caption: This is the caption of the image
     width: wide
