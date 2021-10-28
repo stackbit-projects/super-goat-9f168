@@ -7,7 +7,7 @@ sections:
   - type: image_section
     image: /images/Agregar un título (1000 x 600 px).png
     image_alt: Subtle 1
-    caption: This is the caption of the image
+    caption: Participación de Grupo SIMEC en Ferias Nacionales e Internacionales
     width: wide
   - type: text_section
     content: >
