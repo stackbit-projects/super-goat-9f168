@@ -27,7 +27,7 @@ sections:
         image_alt: Logo 1
       - image: /images/pve-logo.png
         image_alt: Logo 2
-      - image: images/logo-3.svg
+      - image: /images/logo (2).png
         image_alt: Logo 3
       - image: images/logo-4.svg
         image_alt: Logo 4
