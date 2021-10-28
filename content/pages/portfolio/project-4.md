@@ -6,7 +6,7 @@ thumb_image: /images/imageonline-co-split-image (3).png
 thumb_image_alt: 'Agenda 2030: El Futuro que Queremos'
 sections:
   - type: image_section
-    image: images/work-book-1.jpg
+    image: /images/Agenda2030.PNG
     image_alt: Nature Mockup Magazine 1
     caption: This is the caption of the image
     width: wide
