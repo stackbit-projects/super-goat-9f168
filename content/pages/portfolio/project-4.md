@@ -13,7 +13,6 @@ sections:
   - type: text_section
     content: "Coordinación del concurso de ensayos, desde la elaboración de la convocatoria, gestión del jurado calificador, comunicación interna y externa hasta la selección de ganadores. Los ensayos ganadores serán publicados en un libro por la Editorial Sapienza (Brasil).\n\n\n\nMás información\_[aquí](http://rediberoestudios.org/events/ensayo-agenda-2030/)\_\n"
   - type: image_section
-    image: images/work-book-2.jpg
     image_alt: Nature Mockup Magazine 2
     width: wide
   - type: text_section
