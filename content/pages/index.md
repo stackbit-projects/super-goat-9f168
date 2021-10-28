@@ -14,7 +14,7 @@ sections:
     subtitle: >-
       Coordinación en Ferias Nacionales e Internacionales, Coordinación de
       Eventos Online, Administración de una Comunidad Digital, etc.
-    projects_number: 3
+    projects_number: 4
     view_all_label: Ver todos
     view_all_url: portfolio
   - type: grid_section
