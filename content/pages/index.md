@@ -70,6 +70,13 @@ sections:
           el establecimiento de instituciones internacionales, tomando la
           Alianza del Pacífico como caso práctico.
         subtitle: 'Marzo, 2019. BUAP'
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
