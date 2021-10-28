@@ -55,7 +55,7 @@ sections:
           - label: Leer
             url: >-
               https://www.academia.edu/51108626/La_Agenda_Digital_de_la_Alianza_del_Pac%C3%ADfico_Retos_y_Oportunidades_para_los_DDHH
-            style: button
+            style: icon
             icon: dribbble
             new_window: false
             no_follow: false
