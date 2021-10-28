@@ -1,6 +1,6 @@
 ---
 title: Updaters English Community
-subtitle: Editorial Design
+subtitle: Com
 date: '2021-01-10'
 thumb_image: /images/imageonline-co-split-image (1).png
 thumb_image_alt: Nature Magazine preview
