@@ -1,6 +1,6 @@
 ---
 title: Coordinación en Ferias Nacionales e Internacionales
-subtitle: Coordinadora Adjunta de Proyecto
+subtitle: 'Coordinación de eventos '
 date: '2021-02-06'
 thumb_image_alt: Subtle preview
 sections:
