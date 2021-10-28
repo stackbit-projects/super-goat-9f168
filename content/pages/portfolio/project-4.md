@@ -3,7 +3,7 @@ title: 'Agenda 2030: El Futuro que Queremos '
 subtitle: Coordinadora de Proyecto
 date: '2020-05-10'
 thumb_image: /images/imageonline-co-split-image (2).png
-thumb_image_alt: Nature Mockup Magazine preview
+thumb_image_alt: 'Agenda 2030: El Futuro que Queremos'
 sections:
   - type: image_section
     image: images/work-book-1.jpg
