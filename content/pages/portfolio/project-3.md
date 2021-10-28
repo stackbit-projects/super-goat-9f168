@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: /images/179556420_287894303047282_6861344462670994194_n.jpg
     image_alt: The Book 1
-    caption: This is the caption of the image
+    caption: Webinars
     width: wide
   - type: text_section
     content: >-
