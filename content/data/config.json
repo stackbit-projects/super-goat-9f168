@@ -71,5 +71,6 @@
             }
         ]
     },
-    "domain": "https://super-goat-9f168.netlify.app"
+    "domain": "https://super-goat-9f168.netlify.app",
+    "favicon": "/images/Logo (1).png"
 }
