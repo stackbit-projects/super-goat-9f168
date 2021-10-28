@@ -16,7 +16,7 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: name
+        name: Tu nombre
         label: Nombre
         default_value: Your name
         is_required: true
