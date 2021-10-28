@@ -13,7 +13,7 @@ sections:
     bg_color: light
     actions:
       - label: ¡Conectar!
-        url: '#'
+        url: /
         style: button
         icon: dribbble
         new_window: false
