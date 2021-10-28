@@ -17,17 +17,7 @@ sections:
     type: cta_section
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "**¡Hola!**\n\nSoy Yuliana Rodríguez y estudié\_**Relaciones Internacionales**\_en la Benemérita Universidad Autónoma de Puebla (BUAP). Cuento con un Máster en Gobernanza y Derechos Humanos por la Universidad Autónoma de Madrid (UAM) y estoy interesada en el Desarrollo Digital y la Tecnología. Considero primordial su aprendizaje, así como la digitalización para el desarrollo social y económico de cualquier país.\n\nMi objetivo es aportar al Desarrollo Digital de Latinoamérica desde un enfoque de las Relaciones Internacionales, Gobernanza y Derechos Humanos. Y sobretodo, motivar a que más personas de diversas áreas del conocimiento incursionen en este mundo tecnológico. Porque hoy en día: quién no entiende de tecnología, no entiende el mundo. Más que espectadores, seamos actores de este cambio imparable que está sucediendo.\n"
     type: content_section
 seo:
   title: ''
