@@ -90,7 +90,7 @@ sections:
 
 
         actions:
-          - label: lorem-ipsum
+          - label: Leer
             url: '#'
             style: link
             icon: dribbble
