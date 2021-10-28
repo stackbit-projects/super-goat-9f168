@@ -6,7 +6,7 @@ excerpt: Post disponible el 31/01/12
 date: '2021-10-27'
 thumb_image: /images/earth-g9020fa5d2_1280.jpg
 thumb_image_alt: White concrete building wall
-image: images/post-1.jpg
+image: /images/earth-g9020fa5d2_1280.jpg
 image_alt: White concrete building wall
 seo:
   title: The function of design is letting design function
