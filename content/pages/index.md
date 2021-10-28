@@ -72,7 +72,8 @@ sections:
         subtitle: 'Marzo, 2019. BUAP'
         actions:
           - label: Leer
-            url: '#'
+            url: >-
+              https://www.academia.edu/51163195/La_Cooperaci%C3%B3n_Internacional_en_el_marco_de_la_Alianza_del_Pac%C3%ADfico_Primeros_pasos_hacia_una_integraci%C3%B3n_profunda
             style: link
             icon: dribbble
             new_window: false
