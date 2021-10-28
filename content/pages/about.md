@@ -11,7 +11,7 @@ sections:
     image_alt: Illustration
     bg_color: light
     actions:
-      - label: ¡Conectar!
+      - label: Contactar
         url: /contact
         style: button
         icon: dribbble
