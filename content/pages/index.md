@@ -83,17 +83,12 @@ sections:
           Pacífico” Isabel Rodríguez Aranda y Edgar Vieira Posada (eds.)
         subtitle: 'Abril, 2016. SRE'
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Reseña publicada en la Revista Mexicana de Política Exterior del
+          Instituto Matías Romero, Instituto Diplomático de México, parte de la
+          Secretaría de Relaciones Exteriores de México.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
   - type: testimonials_section
     section_id: testimonials
