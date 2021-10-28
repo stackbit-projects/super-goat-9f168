@@ -74,7 +74,7 @@ sections:
           - label: Leer
             url: >-
               https://www.academia.edu/51163195/La_Cooperaci%C3%B3n_Internacional_en_el_marco_de_la_Alianza_del_Pac%C3%ADfico_Primeros_pasos_hacia_una_integraci%C3%B3n_profunda
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
