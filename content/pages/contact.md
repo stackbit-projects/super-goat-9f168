@@ -4,11 +4,12 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: |+
-      ¡Hey! Envíame un mensaje y colaboremos. 
+    content: |
+      ¡Hey! 
 
 
 
+      Envíame un mensaje y colaboremos.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
