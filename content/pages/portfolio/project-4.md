@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: /images/Agenda2030.PNG
     image_alt: Nature Mockup Magazine 1
-    caption: Primer Concurso Iberoaméricano de Ensayos
+    caption: Primer Concurso Iberoamericano de Ensayos
     width: wide
   - type: text_section
     content: >-
