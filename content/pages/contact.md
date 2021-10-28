@@ -29,7 +29,7 @@ sections:
         name: subject
         default_value: Please select
         options:
-          - Branding
+          - Saludo
           - Design
           - Digital
         label: Asunto
