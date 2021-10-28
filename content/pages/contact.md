@@ -32,7 +32,7 @@ sections:
           - Branding
           - Design
           - Digital
-        label: T
+        label: Título
       - input_type: textarea
         name: message
         label: Message
