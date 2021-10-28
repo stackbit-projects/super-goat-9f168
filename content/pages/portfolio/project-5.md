@@ -11,15 +11,7 @@ sections:
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: "Coordino las actividades de Updaters English Community, un lugar seguro, amigable y gratuito para practicar y mejorar tu inglés con personas de toda América Latina (también tenemos miembros de España y otras partes de Europa). Actualmente somos\_**+720 miembros**\_y tenemos varias actividades a lo largo de la semana. Únete a Updaters and\_*Update Your Life To English.*\n\n\n\nMás información sobre Updaters[\_aquí](https://linktr.ee/EnglishUpdaters)\n"
   - type: image_section
     image: images/work-magazine-2.jpg
     image_alt: Nature Magazine 2
