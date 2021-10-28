@@ -1,5 +1,5 @@
 ---
-title: Sobre mí PRUEBA
+title: 'Sobre mí '
 hide_title: true
 sections:
   - section_id: lorem-ipsum
