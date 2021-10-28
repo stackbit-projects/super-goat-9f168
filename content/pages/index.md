@@ -39,7 +39,9 @@ sections:
     subtitle: Research
     col_number: two
     grid_items:
-      - title: Business design
+      - title: >-
+          La Agenda Digital de la Alianza del Pacífico: Retos y Oportunidades
+          para los DDHH
         image: /images/agenda.PNG
         content: |-
           - Research and insight
