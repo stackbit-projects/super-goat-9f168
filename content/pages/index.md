@@ -115,7 +115,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     posts_number: 3
-    col_number: three
+    col_number: two
     actions: []
     type: posts_section
 layout: advanced
