@@ -51,6 +51,13 @@ sections:
           tecnológico y los derechos humanos para sus países miembros.
 
         subtitle: 'Junio, 2021. UAM'
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
       - title: Brand design
         image: images/service-2.svg
         content: |-
