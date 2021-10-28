@@ -62,7 +62,7 @@ sections:
       - title: >-
           La Alianza del Pacifico: Proceso de integración latinoamericana en
           construcción
-        image: images/service-2.svg
+        image: /images/AP bajo construcción.PNG
         content: |-
           - Brand development
           - Naming
