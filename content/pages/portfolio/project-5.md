@@ -1,5 +1,5 @@
 ---
-title: Nature Magazine
+title: Updaters English Community
 subtitle: Editorial Design
 date: '2021-01-10'
 thumb_image: /images/imageonline-co-split-image (1).png
