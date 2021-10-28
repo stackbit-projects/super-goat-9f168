@@ -34,7 +34,7 @@ sections:
           - Otro
         label: Asunto
       - input_type: textarea
-        name: message
+        name: Mensaje
         label: Message
         default_value: Your message
       - input_type: checkbox
