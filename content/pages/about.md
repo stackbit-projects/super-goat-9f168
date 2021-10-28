@@ -8,7 +8,7 @@ sections:
     image_alt: Our team in the meeting room
   - type: cta_section
     section_id: cta
-    title: Become a Team Player
+    title: Contáctame
     content: >-
       We are always looking for great people to join our team. If you are
       interested in working for Agency, please send an email to
