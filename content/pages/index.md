@@ -52,7 +52,7 @@ sections:
 
         subtitle: 'Junio, 2021. UAM'
         actions:
-          - label: lorem-ipsum
+          - label: Leer
             url: '#'
             style: link
             icon: dribbble
