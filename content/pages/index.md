@@ -71,7 +71,7 @@ sections:
               https://www.academia.edu/40290888/La_Alianza_del_Pacifico_Proceso_de_integraci%C3%B3n_latinoamericana_en_construcci%C3%B3n
             style: button
             icon: dribbble
-            new_window: true
+            new_window: false
             no_follow: false
       - title: Experience design
         image: images/service-3.svg
