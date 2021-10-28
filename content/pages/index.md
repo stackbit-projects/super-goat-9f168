@@ -37,7 +37,7 @@ sections:
     section_id: Research
     title: Artículos Académicos
     subtitle: Research
-    col_number: three
+    col_number: two
     grid_items:
       - title: Business design
         image: images/service-1.svg
