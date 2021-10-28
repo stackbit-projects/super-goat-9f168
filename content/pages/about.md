@@ -8,7 +8,6 @@ sections:
     image_alt: Our team in the meeting room
   - type: cta_section
     section_id: cta
-    title: Contáctame
     image_alt: Illustration
     bg_color: light
     actions:
