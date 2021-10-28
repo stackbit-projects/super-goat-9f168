@@ -4,17 +4,10 @@ hide_title: true
 sections:
   - section_id: lorem-ipsum
     title: Yuliana Rodríguez Portilla
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      ## Relaciones Internacionales | Gestión de Proyectos | Desarrollo Digital
+      & Tecnología
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     image_alt: lorem-ipsum
     bg_color: none
