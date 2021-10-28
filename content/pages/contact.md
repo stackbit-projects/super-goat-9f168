@@ -27,7 +27,6 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: What services are you looking for?
         default_value: Please select
         options:
           - Branding
