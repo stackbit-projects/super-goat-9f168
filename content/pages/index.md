@@ -57,7 +57,9 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
-      - title: Experience design
+      - title: >-
+          La Cooperación Internacional en el marco de la Alianza del Pacífico
+          ¿Primeros pasos hacia una integración profunda
         image: images/service-3.svg
         content: |-
           - Digital product design
