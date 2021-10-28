@@ -10,7 +10,7 @@ sections:
     section_id: cta
     title: Contáctame
     image_alt: Illustration
-    bg_color: light
+    bg_color: none
     actions:
       - label: ¡Conectar!
         url: /contact
