@@ -4,12 +4,14 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >
+    content: |
       ¡Hey!
 
+      Si tienes alguna duda o idea en la que podamos colaborar. 
 
-      Si tienes alguna duda o idea en la que podamos colaborar. ¡Envíame un
-      mensaje y hablemos! 
+
+
+      ¡Envíame un mensaje y hablemos!
     form_id: contactForm
     form_action: /thank-you
     form_fields:
