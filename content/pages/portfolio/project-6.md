@@ -1,6 +1,6 @@
 ---
 title: Coordinación en Ferias Nacionales e Internacionales
-subtitle: Brand Development
+subtitle: Coordinadora de Eventos
 date: '2021-02-06'
 thumb_image: /images/imageonline-co-split-image.png
 thumb_image_alt: Subtle preview
