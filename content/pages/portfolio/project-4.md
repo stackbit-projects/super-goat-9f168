@@ -11,15 +11,7 @@ sections:
     caption: Primer Concurso Iberoamericano de Ensayos
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: "Coordinación del concurso de ensayos, desde la elaboración de la convocatoria, gestión del jurado calificador, comunicación interna y externa hasta la selección de ganadores. Los ensayos ganadores serán publicados en un libro por la Editorial Sapienza (Brasil).\n\n\n\nMás información\_[aquí](http://rediberoestudios.org/events/ensayo-agenda-2030/)\_\n"
   - type: image_section
     image: images/work-book-2.jpg
     image_alt: Nature Mockup Magazine 2
