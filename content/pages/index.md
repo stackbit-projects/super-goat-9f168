@@ -60,7 +60,7 @@ sections:
       - title: >-
           La Cooperación Internacional en el marco de la Alianza del Pacífico
           ¿Primeros pasos hacia una integración profunda
-        image: images/service-3.svg
+        image: /images/CID y AP.PNG
         content: >
           Tesis aprobada con Cum Laude. Esta investigación sustenta que las
           acciones de cooperación internacional que se llevan a cabo dentro de
