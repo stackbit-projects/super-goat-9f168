@@ -1,5 +1,5 @@
 ---
-title: Declaración Juvenil de la Alianza del Pacífico
+title: Coordinación en Ferias Nacionales e Internacionales
 subtitle: Coordinadora Adjunta de Proyecto
 date: '2021-02-06'
 thumb_image_alt: Subtle preview
