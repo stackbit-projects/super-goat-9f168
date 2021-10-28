@@ -39,7 +39,7 @@
                 "no_follow": false
             },
             {
-                "label": "Contact",
+                "label": "Contacto",
                 "url": "/contact/",
                 "style": "button"
             }
