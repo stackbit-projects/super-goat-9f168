@@ -9,11 +9,8 @@ sections:
   - type: cta_section
     section_id: cta
     title: Contáctame
-    content: >-
-      We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+    content: |
+      Contáctame
     image_alt: Illustration
     bg_color: light
 seo:
