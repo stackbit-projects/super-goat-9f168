@@ -40,7 +40,7 @@ sections:
     col_number: two
     grid_items:
       - title: Business design
-        image: images/service-1.svg
+        image: /images/agenda.PNG
         content: |-
           - Research and insight
           - Business innovation and transformation
