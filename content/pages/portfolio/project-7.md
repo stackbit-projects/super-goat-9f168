@@ -1,6 +1,6 @@
 ---
 title: Coordinación en Ferias Nacionales e Internacionales
-subtitle: 'Coordinación de eventos '
+subtitle: Coordinación de eventos (Participación de Grupo SIMEC)
 date: '2021-02-06'
 thumb_image_alt: Subtle preview
 sections:
