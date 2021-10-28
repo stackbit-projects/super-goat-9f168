@@ -70,5 +70,5 @@ seo:
       value: images/work-photography-magazine-1.jpg
       relativeUrl: true
 layout: project
-thumb_image: /images/imageonline-co-split-image.png
+thumb_image: /images/imageonline-co-split-image (1).png
 ---
