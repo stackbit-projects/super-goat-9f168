@@ -50,6 +50,13 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/yulianarodriguezportilla/",
+                "style": "icon",
+                "icon": "linkedin",
+                "new_window": true
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/Yuls_Rdz",
                 "style": "icon",
@@ -61,13 +68,6 @@
                 "url": "https://www.instagram.com/Yuls_Rdz/",
                 "style": "icon",
                 "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/yulianarodriguezportilla/",
-                "style": "icon",
-                "icon": "linkedin",
                 "new_window": true
             }
         ]
