@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Sobre mí PRUEBA
 hide_title: true
 sections: []
 seo:
