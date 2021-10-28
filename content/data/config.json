@@ -18,7 +18,7 @@
             {
                 "label": "Proyectos",
                 "url": "/portfolio/",
-                "style": "link"
+                "style": "button"
             },
             {
                 "label": "Journal",
