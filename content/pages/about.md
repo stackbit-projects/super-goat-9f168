@@ -18,7 +18,6 @@ sections:
         icon: dribbble
         new_window: true
         no_follow: false
-    image: /images/Logo (1)-12dcffaf.png
 seo:
   title: About Us
   description: This is the about us page
