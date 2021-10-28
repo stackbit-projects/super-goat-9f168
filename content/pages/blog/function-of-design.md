@@ -1,5 +1,5 @@
 ---
-title: The function of design is letting design function
+title: ¿Por qué la Alianza del Pacífico debe apostarle a su Agenda Digital?
 subtitle: A interesting tale about function of design
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
