@@ -1,5 +1,5 @@
 ---
-title: The Book
+title: Semana de Negocios Internacionales
 subtitle: Editorial Design
 date: '2020-04-10'
 thumb_image: /images/imageonline-co-split-image (3).png
