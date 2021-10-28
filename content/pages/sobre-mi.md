@@ -3,7 +3,7 @@ title: Sobre mí PRUEBA
 hide_title: true
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Yuliana Rodríguez Portilla
     content: >-
       ## Lorem ipsum
 
