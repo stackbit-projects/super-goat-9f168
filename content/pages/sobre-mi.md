@@ -16,7 +16,6 @@ sections:
     bg_color: none
     type: cta_section
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
