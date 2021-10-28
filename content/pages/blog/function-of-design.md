@@ -1,5 +1,7 @@
 ---
-title: ¿Por qué la Alianza del Pacífico debe apostarle a su Agenda Digital?
+title: >-
+  5 Razones por las que la Alianza del Pacífico debe apostarle a su Agenda
+  Digital
 subtitle: A interesting tale about function of design
 excerpt: Post disponible el 31/01/12
 date: '2021-10-27'
