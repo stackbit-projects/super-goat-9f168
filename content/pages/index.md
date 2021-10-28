@@ -71,7 +71,7 @@ sections:
           Alianza del Pacífico como caso práctico.
         subtitle: 'Marzo, 2019. BUAP'
         actions:
-          - label: lorem-ipsum
+          - label: Leer
             url: '#'
             style: link
             icon: dribbble
