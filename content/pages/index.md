@@ -20,7 +20,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: Instituciones
-    subtitle: Lugares dónde he colaborado
+    subtitle: Con las que he colaborado
     col_number: three
     grid_items:
       - image: images/logo-1.svg
