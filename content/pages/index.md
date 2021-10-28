@@ -70,6 +70,7 @@ sections:
           - Communication design
           - Social media
           - Product design
+        subtitle: 'Marzo, 2019'
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
