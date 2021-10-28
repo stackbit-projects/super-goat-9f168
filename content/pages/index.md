@@ -78,7 +78,9 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
-      - title: lorem-ipsum
+      - title: >-
+          lReseña del libro: “Perspectivas y Oportunidades de la Alianza del
+          Pacífico” Isabel Rodríguez Aranda y Edgar Vieira Posada (eds.)
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
