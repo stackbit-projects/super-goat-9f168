@@ -12,7 +12,7 @@ sections:
     image_alt: Illustration
     bg_color: light
     actions:
-      - label: lorem-ipsum
+      - label: Contactar
         url: '#'
         style: link
         icon: dribbble
