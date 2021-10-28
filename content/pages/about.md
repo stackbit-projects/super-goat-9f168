@@ -10,7 +10,7 @@ sections:
     section_id: cta
     title: Contáctame
     content: |
-      Contáctame
+      Envíame un e-mail.
     image_alt: Illustration
     bg_color: light
 seo:
