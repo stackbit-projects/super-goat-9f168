@@ -30,7 +30,7 @@ sections:
         default_value: Please select
         options:
           - Saludo
-          - Design
+          - Colaboración / Oferta laboral
           - Digital
         label: Asunto
       - input_type: textarea
