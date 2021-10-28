@@ -69,7 +69,7 @@ sections:
           - label: Leer
             url: >-
               https://www.academia.edu/40290888/La_Alianza_del_Pacifico_Proceso_de_integraci%C3%B3n_latinoamericana_en_construcci%C3%B3n
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
