@@ -2,7 +2,7 @@
 title: Semana de Negocios Internacionales
 subtitle: Coordinadora de proyecto
 date: '2020-04-10'
-thumb_image: /images/imageonline-co-split-image (3).png
+thumb_image: /images/student-g0c8d23e69_1920.jpg
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
