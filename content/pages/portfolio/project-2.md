@@ -1,5 +1,5 @@
 ---
-title: Semana de Negocios Internacionales
+title: Declaración de Jóvenes de la Alianza del Pacífico
 subtitle: Coordinadora Adjunta de proyecto
 date: '2020-04-10'
 thumb_image_alt: The Book preview
