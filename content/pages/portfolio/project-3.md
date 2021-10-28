@@ -1,6 +1,6 @@
 ---
 title: Semana de Negocios Internacionales
-subtitle: Editorial Design
+subtitle: Coordinadora de proyecto
 date: '2020-04-10'
 thumb_image: /images/imageonline-co-split-image (3).png
 thumb_image_alt: The Book preview
