@@ -17,7 +17,6 @@ sections:
     width: wide
   - type: text_section
   - type: image_section
-    image: images/work-magazine-3.jpg
     image_alt: Nature Magazine 3
     width: wide
   - type: text_section
