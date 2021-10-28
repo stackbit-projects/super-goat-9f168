@@ -89,7 +89,13 @@ sections:
           Secretaría de Relaciones Exteriores de México.
 
 
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
