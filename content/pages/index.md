@@ -9,7 +9,7 @@ sections:
       Relaciones Internacionales & Desarrollo Digital. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: mosaic
+    layout_style: tiles
     title: Proyectos
     subtitle: >-
       Coordinación en Ferias Nacionales e Internacionales, Coordinación de
