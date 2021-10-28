@@ -1,5 +1,5 @@
 ---
-title: Nature Mockup Magazine
+title: Agenda 2030
 subtitle: Editorial Design
 date: '2020-05-10'
 thumb_image: /images/imageonline-co-split-image (2).png
