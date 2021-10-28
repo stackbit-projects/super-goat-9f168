@@ -16,7 +16,7 @@ sections:
         url: /contact
         style: button
         icon: dribbble
-        new_window: true
+        new_window: false
         no_follow: false
 seo:
   title: About Us
