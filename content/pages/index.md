@@ -61,15 +61,14 @@ sections:
           La Cooperación Internacional en el marco de la Alianza del Pacífico
           ¿Primeros pasos hacia una integración profunda
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: >
+          Tesis aprobada con Cum Laude. Esta investigación sustenta que las
+          acciones de cooperación internacional que se llevan a cabo dentro de
+          los mecanismos de integración ayudan a lograr objetivos más complejos
+          como la integración en sí. La tesis utiliza el constructivismo y el
+          neoliberalismo institucional para explicar la creación de identidad y
+          el establecimiento de instituciones internacionales, tomando la
+          Alianza del Pacífico como caso práctico.
         subtitle: 'Marzo, 2019. BUAP'
       - title: lorem-ipsum
         subtitle: lorem-ipsum
