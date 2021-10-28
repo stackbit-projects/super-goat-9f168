@@ -1,6 +1,6 @@
 ---
 title: Coordinación en Ferias Nacionales e Internacionales
-subtitle: Coordinadora de Eventos
+subtitle: 'Coordinadora '
 date: '2021-02-06'
 thumb_image: /images/imageonline-co-split-image.png
 thumb_image_alt: Subtle preview
