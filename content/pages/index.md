@@ -18,22 +18,6 @@ sections:
     view_all_label: Ver todos
     view_all_url: portfolio
   - type: grid_section
-    section_id: clients
-    title: Instituciones
-    subtitle: Con las que he colaborado
-    col_number: three
-    grid_items:
-      - image: /images/iniciativa-jovenes.png
-        image_alt: Logo 1
-      - image: /images/pve-logo.png
-        image_alt: Logo 2
-      - image: /images/logo (2).png
-        image_alt: Logo 3
-      - image: /images/SRE.PNG
-        image_alt: Logo 4
-      - image: images/logo-5.svg
-        image_alt: Logo 5
-  - type: grid_section
     section_id: Research
     title: Artículos Académicos
     subtitle: Research
