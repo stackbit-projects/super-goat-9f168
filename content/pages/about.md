@@ -13,6 +13,13 @@ sections:
       Envíame un e-mail.
     image_alt: Illustration
     bg_color: light
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
 seo:
   title: About Us
   description: This is the about us page
