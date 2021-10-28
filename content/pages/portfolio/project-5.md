@@ -2,7 +2,7 @@
 title: Updaters English Community
 subtitle: Community Coordinator
 date: '2021-01-10'
-thumb_image: /images/imageonline-co-split-image (1).png
+thumb_image: /images/imageonline-co-split-image (2).png
 thumb_image_alt: Updaters English Community
 sections:
   - type: image_section
