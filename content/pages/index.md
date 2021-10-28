@@ -59,7 +59,9 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
-      - title: Brand design
+      - title: >-
+          La Alianza del Pacifico: Proceso de integración latinoamericana en
+          construcción
         image: images/service-2.svg
         content: |-
           - Brand development
