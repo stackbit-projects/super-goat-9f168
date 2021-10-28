@@ -1,7 +1,7 @@
 ---
 title: Proyectos
 subtitle: 'Project Management '
-layout_style: tiles
+layout_style: mosaic
 seo:
   title: Portfolio
   description: This is the portfolio page
