@@ -36,7 +36,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Artículos Académicos
-    subtitle: What we do
+    subtitle: Research
     col_number: three
     grid_items:
       - title: Business design
