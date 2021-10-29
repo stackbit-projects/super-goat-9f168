@@ -20,7 +20,6 @@ sections:
       Iniciativa por los Jóvenes Nestlé y la Universidad ICESI en Colombia.
 
 
-  - type: text_section
 seo:
   title: Subtle
   description: This is the sample project description
