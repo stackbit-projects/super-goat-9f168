@@ -6,7 +6,7 @@ thumb_image: /images/imageonline-co-split-image.png
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
-    image: images/work-photography-magazine-1.jpg
+    image: /images/f608x342-145051_174774_15.jpg
     image_alt: Subtle 1
     caption: This is the caption of the image
     width: wide
