@@ -3,9 +3,10 @@ title: ¡Gracias por tu mensaje!
 hide_title: false
 sections:
   - type: hero_section
-    content: >-
-      Thank you for testing this template. We hope you like it. Have a great
-      day!
+    content: |
+      Me pondré en contacto contigo tan pronto como me sea posible. 
+
+      ¡Qué tengas un excelente día!
     actions:
       - label: Back to homepage
         url: /
