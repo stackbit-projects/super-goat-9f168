@@ -21,7 +21,6 @@ sections:
 
 
   - type: text_section
-  - type: text_section
 seo:
   title: Subtle
   description: This is the sample project description
