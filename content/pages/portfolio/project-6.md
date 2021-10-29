@@ -11,15 +11,15 @@ sections:
     caption: Encuentro de Jóvenes de la Alianza del Pacífico
     width: regular
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >+
+      Gestión del proyecto "Declaración de Jóvenes de la Alianza del Pacífico"
+      en México. El producto será ratificado por los Presidentes de México,
+      Colombia, Perú y Chile en diciembre del 2021, con el objetivo de
+      establecer un Consejo Juvenil en la Alianza del Pacífico (mecanismo de
+      integración entre México, Colombia, Perú y Chile). Proyecto auspiciado por
+      Iniciativa por los Jóvenes Nestlé y la Universidad ICESI en Colombia.
+
+
   - type: image_section
     image_alt: Subtle 2
     width: wide
