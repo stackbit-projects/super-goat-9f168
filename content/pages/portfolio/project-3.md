@@ -11,15 +11,7 @@ sections:
     caption: Webinars
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: "Coordinación de la semana de Negocios Internacionales (evento online con 3 Webinars). Contacto clave con los ponentes, moderadores, hosts de sala y directores de la organización.\n\n\n\nMás información[\_aquí](https://www.facebook.com/Instituto-Iberoamericano-de-Empresa-y-Econom%C3%ADa-100501201786594/photos/287894299713949)\n"
   - type: image_section
     image: images/work-book-cover-2.jpg
     image_alt: The Book 2
