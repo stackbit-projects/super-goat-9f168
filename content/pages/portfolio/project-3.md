@@ -13,7 +13,6 @@ sections:
   - type: text_section
     content: "Coordinación de la semana de Negocios Internacionales (evento online con 3 Webinars). Contacto clave con los ponentes, moderadores, hosts de sala y directores de la organización.\n\n\n\nMás información[\_aquí](https://www.facebook.com/Instituto-Iberoamericano-de-Empresa-y-Econom%C3%ADa-100501201786594/photos/287894299713949)\n"
   - type: image_section
-    image: images/work-book-cover-2.jpg
     image_alt: The Book 2
     width: wide
   - type: text_section
