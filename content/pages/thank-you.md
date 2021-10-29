@@ -8,7 +8,7 @@ sections:
 
       ¡Qué tengas un excelente día!
     actions:
-      - label: Back to homepage
+      - label: Regresar a la página de Inicio
         url: /
         style: button
 layout: advanced
