@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: ¡Gracias por tu mensaje!
 hide_title: false
 sections:
   - type: hero_section
