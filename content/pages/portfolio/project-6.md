@@ -7,7 +7,7 @@ thumb_image_alt: Subtle preview
 sections:
   - type: image_section
     image: /images/f608x342-145051_174774_15.jpg
-    image_alt: Subtle 1
+    image_alt: Encuentro de Jóvenes de la AP
     caption: Encuentro de Jóvenes de la Alianza del Pacífico
     width: regular
   - type: text_section
