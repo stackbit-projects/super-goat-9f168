@@ -57,6 +57,7 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
+        image: /images/AP bajo construcción-39a0f52e.PNG
       - title: >-
           La Cooperación Internacional en el marco de la Alianza del Pacífico
           ¿Primeros pasos hacia una integración profunda
