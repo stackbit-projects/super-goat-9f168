@@ -43,6 +43,7 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
+        image: /images/agenda-da884039.PNG
       - title: >-
           La Alianza del Pacifico: Proceso de integración latinoamericana en
           construcción
