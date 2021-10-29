@@ -5,8 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: Yuliana Rodríguez Portilla
-    content: |
-      Relaciones Internacionales & Desarrollo Digital. [Let's talk](/contact/).
+    content: >
+      *Relaciones Internacionales & Desarrollo Digital. *[*Let's
+      talk*](/contact/)*.*
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
