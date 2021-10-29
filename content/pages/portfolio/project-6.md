@@ -21,9 +21,6 @@ sections:
 
 
   - type: text_section
-  - type: image_section
-    image_alt: Subtle 3
-    width: wide
   - type: text_section
 seo:
   title: Subtle
