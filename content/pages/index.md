@@ -96,7 +96,6 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
-        image: /images/RESEÑA.PNG
   - type: cta_section
     section_id: cta
     title: ¡Contáctame!
