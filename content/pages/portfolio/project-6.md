@@ -20,9 +20,6 @@ sections:
       Iniciativa por los Jóvenes Nestlé y la Universidad ICESI en Colombia.
 
 
-  - type: image_section
-    image_alt: Subtle 2
-    width: wide
   - type: text_section
   - type: image_section
     image_alt: Subtle 3
