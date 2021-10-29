@@ -78,6 +78,7 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
+        image: /images/CID y AP-b602d508.PNG
       - title: >-
           Reseña del libro: “Perspectivas y Oportunidades de la Alianza del
           Pacífico” Isabel Rodríguez Aranda y Edgar Vieira Posada (eds.)
