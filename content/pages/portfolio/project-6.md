@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: /images/f608x342-145051_174774_15.jpg
     image_alt: Subtle 1
-    caption: This is the caption of the image
+    caption: Encuentro de Jóvenes de la Alianza del Pacífico
     width: regular
   - type: text_section
     content: >-
