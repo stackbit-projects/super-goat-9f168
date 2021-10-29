@@ -27,7 +27,6 @@ sections:
       - title: >-
           La Agenda Digital de la Alianza del Pacífico: Retos y Oportunidades
           para los DDHH
-        image: /images/agenda.PNG
         content: >+
           Trabajo Fin de Máster, donde se analizan las Acciones de la Agenda
           Digital de la Alianza del Pacífico bajo un enfoque de derechos
