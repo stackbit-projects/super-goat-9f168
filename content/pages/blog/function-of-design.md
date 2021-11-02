@@ -3,7 +3,7 @@ title: >-
   5 Razones por las que la Alianza del Pacífico debe apostarle a su Agenda
   Digital
 excerpt: Post disponible próximamente
-date: '2021-10-27'
+date: '2021-10-02'
 thumb_image: /images/earth-g9020fa5d2_1280.jpg
 thumb_image_alt: White concrete building wall
 image: /images/earth-g9020fa5d2_1280.jpg
