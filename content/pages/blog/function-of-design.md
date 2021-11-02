@@ -42,4 +42,4 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Post disponible el 31 de octubre del 2021.
+Post disponible próximamente
